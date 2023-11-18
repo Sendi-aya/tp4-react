@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tp4-react/static/css/main.ef7cc15c.css",
+    "main.js": "/tp4-react/static/js/main.22f49598.js",
+    "static/js/787.e4631f65.chunk.js": "/tp4-react/static/js/787.e4631f65.chunk.js",
+    "static/media/logo.svg": "/tp4-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tp4-react/index.html",
+    "main.ef7cc15c.css.map": "/tp4-react/static/css/main.ef7cc15c.css.map",
+    "main.22f49598.js.map": "/tp4-react/static/js/main.22f49598.js.map",
+    "787.e4631f65.chunk.js.map": "/tp4-react/static/js/787.e4631f65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef7cc15c.css",
+    "static/js/main.22f49598.js"
+  ]
+}
