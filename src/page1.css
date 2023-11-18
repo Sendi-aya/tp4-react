@@ -1,0 +1,55 @@
+.App  {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    width: 500px;
+    background-color:#bcbec2 ;
+    border-radius: 7px;
+    box-shadow: 1px 12px 8px rgb(57, 54, 54);    
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+    color: #007bff;
+    font-weight: bolder;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    margin: 10px;
+  }
+  
+  li {
+    padding: 0.5rem;
+    border-bottom: 1px solid #ccc;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    margin: 1rem;
+    font-size: large;
+  }
+  
+  button:hover {
+    background-color: #0069d9;
+    box-shadow: 5px 5px 8px 4px rgb(48, 66, 102); 
+  }
+
+  p {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+    color: #545d67;
+    font-weight: bolder;
+  }
